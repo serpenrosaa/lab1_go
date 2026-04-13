@@ -106,3 +106,5 @@ func main() {
 	fmt.Println("Студент з найвищим середнім балом:")
 	fmt.Printf("%s (курс %d) — %.2f\n", best.Name, best.Course, best.AverageGrade())
 }
+
+// final version
